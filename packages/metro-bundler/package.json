@@ -1,11 +1,14 @@
 {
-  "version": "0.20.8",
+  "version": "0.20.9",
   "name": "@caiwenshu/metro-bundler",
   "description": "🚇 The JavaScript bundler for React Native.",
   "main": "src/index.js",
   "repository": {
     "type": "git",
     "url": "https://github.com/caiwenshu/metro"
+  },
+  "publishConfig": {
+    "access": "public"
   },
   "scripts": {
     "prepare-release": "test -d build && rm -rf src.real && mv src src.real && mv build src",
