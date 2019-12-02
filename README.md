@@ -1,8 +1,14 @@
-# Metro Bundler
+# @caiwenshu Metro Bundler
 
-[![CircleCI Build Status](https://circleci.com/gh/facebook/metro-bundler.svg?style=shield)](https://circleci.com/gh/facebook/metro-bundler)
-[![npm version](https://badge.fury.io/js/metro-bundler.svg)](http://badge.fury.io/js/metro-bundler)
+### 按照 https://blog.csdn.net/yeputi1015/article/details/81476369 中的方法，修改id引用为字符串。并提供给sm-metro-bundler-cli使用
 
+[![npm version](https://badge.fury.io/js/%40caiwenshu%2Fmetro-bundler.svg)](https://badge.fury.io/js/%40caiwenshu%2Fmetro-bundler)
+
+代码地址为: 
+  https://github.com/caiwenshu/metro/edit/0.20.x/README.md
+
+
+--------------------------------------官方说明-------------------------------------------------------------------------------
 🚇 The JavaScript bundler for React Native.
 
 - **🚅 Fast**: We aim for sub-second reload cycles, fast startup and quick bundling speeds.
